@@ -10,7 +10,6 @@ Ruta Swager:https://api.octoperf.com/swagger-ui.html<br />
     POST    (/public/users/login)<br />
 
 * Ejecutar en Sistema Operativo Windows<br />
--_Descarga el archivo Google ChromeDriver con la versión instalada en su local y reemplazarla el existente en la siguiente ruta: src/test/resources/driver_<br />
 -_Tener instalado previamente maven en su local_<br />
 -_Tener instaldo jdk 8 de java_<br />
 -_Descargar proyecto de git(Push) a su local_<br />
