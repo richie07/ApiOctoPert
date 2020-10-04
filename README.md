@@ -15,10 +15,12 @@ _Tener instalado previamente maven en su local_
 _Tener instaldo jdk 8 de java_
 _Descargar proyecto de git(Push) a su local_
 
-Pasos para la ejecución:
+*Pasos para la ejecución:
 
-Ejecutar el comando cmd Windows :Tecla Win + R
+_Ejecutar el comando cmd Windows :Tecla Win + R_
 _Digitar cmd y presionar enter_
+
 _En la consola ubicarse en la ruta del proyecto descargado (Ejm: cd C:\Users\Richard\IdeaProjects\ApiOctoPert)_
+
 _En la consola ejecutar : mvn clean install compile test_
 
